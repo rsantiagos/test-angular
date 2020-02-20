@@ -7,6 +7,9 @@ Test de angular utilizando una api rest desarrollado con express, jwt, cors y mo
 ## Iniciando
 
 1.- En el directorio de backend ejecutar el comando npm start para ejecutar la API Rest
+
 2.- En el directorio de frontend ejecutar el comando ng serve para levantar el ambiente de frontend (importante tener angular instalado de manera global)
+
 3.- La ruta para el logueo es http://localhost:4200/auth/login
+
 4.- La ruta para el registro es http://localhost:4200/auth/register
