@@ -13,3 +13,6 @@ Test de angular utilizando una api rest desarrollado con express, jwt, cors y mo
 3.- La ruta para el logueo es http://localhost:4200/auth/login
 
 4.- La ruta para el registro es http://localhost:4200/auth/register
+
+### Notas
+1.- Es importante tener instalado mongo o en su defecto modificar la cadena de conexion en backend/config/properties.js
