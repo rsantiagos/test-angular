@@ -4,6 +4,7 @@ const bcrypt = require('bcryptjs');
 const SECRET_KEY = 'secretkey';
 
 exports.createUser = (req, res, next) => {
+  // console.log(req.body)
   const newUser = {
     name: req.body.name,
     email: req.body.email,
